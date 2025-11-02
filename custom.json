@@ -1,0 +1,11 @@
+{
+  "name": "dark-orange",
+  "primary": "#FF5900",
+  "primaryText": "#DDDDDD",
+  "surface": "#17181E",
+  "surfaceText": "#DDDDDD",
+  "background": "#191B20",
+  "backgroundText": "#DDDDDD",
+  "outline": "#FF5900",
+  "matugen_type": "scheme-tonal-spot"
+}
